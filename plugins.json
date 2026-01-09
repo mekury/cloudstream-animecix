@@ -1,0 +1,21 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mekury/cloudstream-animecix",
+    "fileSize": 97132,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "mekury"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeciX",
+    "description": "AnimeciX Cloudstream plugin.",
+    "url": "https://raw.githubusercontent.com/mekury/cloudstream-animecix/main/AnimeciX.cs3",
+    "name": "AnimeciX"
+  }
+]
