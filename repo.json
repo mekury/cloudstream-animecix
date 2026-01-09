@@ -1,0 +1,8 @@
+{
+  "name": "AnimeciX Repo",
+  "description": "AnimeciX Cloudstream plugin repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/mekury/cloudstream-animecix/main/plugins.json"
+  ]
+}
